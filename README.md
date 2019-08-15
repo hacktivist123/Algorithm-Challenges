@@ -1,1 +1,1 @@
-# FCC-Algorithm-Challenges
+# Algorithm-Challenges
